@@ -1,4 +1,4 @@
-# StrivingForLight-Localisation
+# Striving for Light Localisation
 Localisation of the Roguelite ARPG Striving for Light
 
 # How To Contribute
