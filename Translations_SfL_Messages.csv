@@ -1,68 +1,68 @@
-﻿id;en;de;fr;it;es;zh;ja;ko;pt;pl;ru;tr
-I;I;Ich;Je;Io;Yo;我;私;나;Eu;Ja;Я;Ben
-YOU;You;Sie;Vous;Tu;Usted;你;あなた;당신;Você;Ty;Вы;Sen
-YOUR;Your;Dein;Votre;Il tuo;Su;您的;ユアーズ;당신의 것;O vosso;Twój;Ваш;Sizin
-WE;We;Wir;Nous;Noi;Nosotros;我们;私たち;우리;Nós;My;Мы;Biz
-EVERYONE;Everyone;Alle;Tous;Tutti;Todos;每个人;みんな;모두;Todos;Wszyscy;Все;Herkes
-HELLO;Hello;Hallo;Bonjour;Ciao;Hola;你好;こんにちは;안녕하세요;Olá;Cześć;Привет;Merhaba
-LUCK;Luck;Glück;Chance;Fortuna;Suerte;运气;運;운;Sorte;Szczęście;Удача;Şans
-LITTLE;Little;Wenig;Petit;Poco;Poco;小;少し;조금;Pouco;Mało;Мало;Az
-MUCH;Much;Viel;Beaucoup;Molto;Mucho;多;たくさん;많이;Muito;Dużo;Много;Çok
-NEED;Need;Brauche;Besoin;Necessità;Necesita;需要;必要性;필요;Necessidade;Potrzeba;Нужно;İhtiyaç
-SEE;See;Siehe;Voir;Vedere;Ver;看;見る;보다;Ver;Zobaczyć;Видеть;Görmek
-CAUTION;Caution;Vorsicht;Prudence;Attenzione;Precaución;小心;注意;주의;Cuidado;Ostrożność;Осторожно;Dikkat
-DONE;Done;Geschafft;Fait;Fatto;Hecho;完成;完了;완료;Feito;Zrobione;Готово;Tamam
-VICTORY;Victory;Sieg;Victoire;Vittoria;Victoria;胜利;勝利;승리;Vitória;Zwycięstwo;Победа;Zafer
-DEFEAT;Defeat;Niederlage;Défaite;Sconfitta;Derrota;失败;敗北;패배;Derrota;Porażka;Поражение;Yenilgi
-HELP;Help;Hilfe;Aide;Aiuto;Ayuda;帮助;助けて;도움;Ajuda;Pomoc;Помощь;Yardım
-GREAT;Great;Super;Super;Grande;Genial;很棒;素晴らしい;훌륭해;Ótimo;Świetnie;Отлично;Harika
-FUN;Fun;Spaß;Amusant;Divertimento;Diversión;乐趣;楽しい;재미;Diversão;Zabawa;Веселье;Eğlence
-WEAPON;Weapon;Waffe;Arme;Arma;Arma;武器;武器;무기;Arma;Broń;Оружие;Silah
-TODAY;Today;Heute;Aujourd'hui;Oggi;Hoy;今天;今日;오늘;Hoje;Dzisiaj;Сегодня;Bugün
-TOMORROW;Tomorrow;Morgen;Demain;Domani;Mañana;明天;明日;내일;Amanhã;Jutro;Завтра;Yarın
-DEATH;Death;Tod;Mort;Morte;Muerte;死亡;死;죽음;Morte;Śmierć;Смерть;Ölüm
-LIGHT;Light;Licht;Lumière;Luce;Luz;光;光;빛;Luz;Światło;Свет;Işık
-DARKNESS;Darkness;Dunkelheit;Obscurité;Oscurità;Oscuridad;黑暗;闇;어둠;Escuridão;Ciemność;Тьма;Karanlık
-DANGER;Danger;Gefahr;Danger;Pericolo;Peligro;危险;危険;위험;Perigo;Niebezpieczeństwo;Опасность;Tehlike
-CHANCE;Chance;Chance;Le hasard;Occasione;Chance;机会;チャンス;기회;Oportunidade;Szansa;Шанс;Şans
-CALM;Calm;Ruhe;Calme;Calmo;Calma;冷静;落ち着き;침착;Calma;Spokój;Спокойствие;Sakin
-PEACE;Peace;Frieden;Paix;Pace;Paz;和平;平和;평화;Paz;Pokój;Мир;Barış
-HAHA;Haha;Haha;Haha;Haha;Jaja;哈哈;はは;하하;Haha;Haha;Ха-ха;Haha
-ARRGH;Arrgh;Arrgh;Argh;Argh;Argh;啊;ああ;아;Argh;Arrgh;Ааа;Of
-STRONG;Strong;Stark;Fort;Forte;Fuerte;强大;強い;강한;Forte;Silny;Сильный;Güçlü
-GREAT;Great;Toll;Génial;Ottimo;Estupendo;伟大;最高;대단해;Excelente;Wspaniale;Здорово;Mükemmel
-HARD;Hard;Schwer;Dur;Duro;Difícil;困难;難しい;어려운;Difícil;Trudno;Тяжело;Zor
-COMING;Coming;Komme;Arrivée;Arrivo;Llegando;来了;来る;오는 중;Vindo;Nadchodzi;Идет;Geliyor
-GOOD;Good;Gut;Bon;Buono;Bueno;好;良い;좋다;Bom;Dobry;Хорошо;İyi
-BAD;Bad;Schlecht;Mauvais;Cattivo;Malo;坏;悪い;나쁘다;Ruim;Zły;Плохо;Kötü
-FEAR;Fear;Angst;Peur;Paura;Miedo;恐惧;恐怖;두려움;Medo;Strach;Страх;Korku
-LOVE;Love;Liebe;Chère;L'amore;Amor;爱;愛;사랑;Amor;Miłość;Любовь;Aşk
-NEW;New;Neu;Nouveau;Nuovo;Nuevo;新的;新しい;새로운;Novo;Nowy;Новый;Yeni
-OLD;Old;Alt;Vieux;Vecchio;Viejo;旧的;古い;오래된;Velho;Stary;Старый;Eski
-FURTHER;Further;Weiter;Plus loin;Ulteriore;Más lejos;更远;さらに;더 멀리;Mais longe;Dalej;Дальше;Daha ileri
-GIVE_UP;Give up;Aufgeben;Abandonner;Arrendersi;Rendirse;放弃;諦める;포기하다;Desistir;Poddać się;Сдаться;Vazgeçmek
-AM;am;bin;suis;sono;soy;是;です;입니다;sou;jestem;есть;Ben
-IS;is;ist;est;è;es;是;は;는;é;jest;это;o
-WAS;was;war;étais;ero;era;是;でした;이었다;era;byłem;был;Ben
-HAVE;have;habe;avoir;avere;tienen;有;持つ;가지고;ter;mieć;есть;var
-READY;ready;fertig;prêt;pronto;listo;准备好;準備;준비됨;pronto;gotowy;готов;hazır
-NOW;now;jetzt;maintenant;ora;ahora;现在;今;지금;agora;teraz;сейчас;şimdi
-LATER;later;Später;Plus tard;Più tardi;Más tarde;以后;後で;나중에;Mais tarde;Później;Позже;Sonra
-FINALLY;finally;schließlich;enfin;finalmente;finalmente;总算;ついに;마침내;finalmente;w końcu;наконец-то;Sonunda
-BE;be;sein;être;essere;ser;是;いる;이다;ser;być;быть;olmak
-ON;on;auf;sur;su;en;在...上;上に;위에;em;na;на;üzerinde
-ABOVE;above;über;au-dessus;sopra;encima;在...之上;上方;위에;acima;nad;выше;yukarıda
-BELOW;below;unter;en dessous;sotto;debajo;在...之下;下方;아래에;abaixo;pod;ниже;aşağıda
-WITH;with;mit;avec;con;con;和;と一緒に;함께;com;z;с;ile
-WITHOUT;without;ohne;sans;senza;sin;没有;なしで;없이;sem;bez;без;olmadan
-NOT;not;nicht;ne pas;non;no;不;ない;아니다;não;nie;не;değil
-TOP;top;oben;haut;cima;arriba;顶部;上部;상단;topo;szczyt;верх;üst
-BOTTOM;bottom;unten;bas;fondo;abajo;底部;下部;하단;fundo;dół;низ;alt
-BETWEEN;between;zwischen;entre;tra;entre;之间;間;사이에;entre;między;между;arasında
-FROM;from;von;de;da;de;从;から;부터;de;od;из;itibaren
-TO;to;zu;à;a;a;到;へ;에;para;do;к;için
-BUT;but;aber;mais;ma;pero;但是;しかし;그러나;mas;ale;но;ama
-OK;OK;OK;OK;OK;OK;好;OK;좋아요;OK;OK;ОК;Tamam
-SMILE;:);:);:);:);:);:);:);:);:);:);:);:)
-BYE;Bye;Tschüss;Au revoir;Ciao;Adiós;再见;さようなら;안녕;Tchau;Do widzenia;Пока;Hoşça kal
-HEART;<3;<3;<3;<3;<3;<3;<3;<3;<3;<3;<3;<3
+﻿id;en;de;fr;it;es;zh;ja;ko;pt;pl;ru;tr;uk
+I;I;Ich;Je;Io;Yo;我;私;나;Eu;Ja;Я;Ben;I
+YOU;You;Du;Vous;Tu;Usted;你;あなた;당신;Você;Ty;Вы;Sen;Ти
+YOUR;Your;Dein;Votre;Il tuo;Su;您的;ユアーズ;당신의 것;O vosso;Twój;Ваш;Sizin;Твій
+WE;We;Wir;Nous;Noi;Nosotros;我们;私たち;우리;Nós;My;Мы;Biz;Ми
+EVERYONE;Everyone;Alle;Tous;Tutti;Todos;每个人;みんな;모두;Todos;Wszyscy;Все;Herkes;Всі
+HELLO;Hello;Hallo;Bonjour;Ciao;Hola;你好;こんにちは;안녕하세요;Olá;Cześć;Привет;Merhaba;Привіт.
+LUCK;Luck;Glück;Chance;Fortuna;Suerte;运气;運;운;Sorte;Szczęście;Удача;Şans;Удача.
+LITTLE;Little;Wenig;Petit;Poco;Poco;小;少し;조금;Pouco;Mało;Мало;Az;Мало
+MUCH;Much;Viel;Beaucoup;Molto;Mucho;多;たくさん;많이;Muito;Dużo;Много;Çok;Багато
+NEED;Need;Brauche;Besoin;Necessità;Necesita;需要;必要性;필요;Necessidade;Potrzeba;Нужно;İhtiyaç;Need
+SEE;See;Siehe;Voir;Vedere;Ver;看;見る;보다;Ver;Zobaczyć;Видеть;Görmek;Дивись.
+CAUTION;Caution;Vorsicht;Prudence;Attenzione;Precaución;小心;注意;주의;Cuidado;Ostrożność;Осторожно;Dikkat;Обережність
+DONE;Done;Geschafft;Fait;Fatto;Hecho;完成;完了;완료;Feito;Zrobione;Готово;Tamam;Зроблено.
+VICTORY;Victory;Sieg;Victoire;Vittoria;Victoria;胜利;勝利;승리;Vitória;Zwycięstwo;Победа;Zafer;Перемога
+DEFEAT;Defeat;Niederlage;Défaite;Sconfitta;Derrota;失败;敗北;패배;Derrota;Porażka;Поражение;Yenilgi;Поразка
+HELP;Help;Hilfe;Aide;Aiuto;Ayuda;帮助;助けて;도움;Ajuda;Pomoc;Помощь;Yardım;Допомога
+GREAT;Great;Super;Super;Grande;Genial;很棒;素晴らしい;훌륭해;Ótimo;Świetnie;Отлично;Harika;Чудово
+FUN;Fun;Spaß;Amusant;Divertimento;Diversión;乐趣;楽しい;재미;Diversão;Zabawa;Веселье;Eğlence;Забава
+WEAPON;Weapon;Waffe;Arme;Arma;Arma;武器;武器;무기;Arma;Broń;Оружие;Silah;Зброя
+TODAY;Today;Heute;Aujourd'hui;Oggi;Hoy;今天;今日;오늘;Hoje;Dzisiaj;Сегодня;Bugün;Сьогодні
+TOMORROW;Tomorrow;Morgen;Demain;Domani;Mañana;明天;明日;내일;Amanhã;Jutro;Завтра;Yarın;Завтра
+DEATH;Death;Tod;Mort;Morte;Muerte;死亡;死;죽음;Morte;Śmierć;Смерть;Ölüm;Смерть
+LIGHT;Light;Licht;Lumière;Luce;Luz;光;光;빛;Luz;Światło;Свет;Işık;Світло
+DARKNESS;Darkness;Dunkelheit;Obscurité;Oscurità;Oscuridad;黑暗;闇;어둠;Escuridão;Ciemność;Тьма;Karanlık;Темрява
+DANGER;Danger;Gefahr;Danger;Pericolo;Peligro;危险;危険;위험;Perigo;Niebezpieczeństwo;Опасность;Tehlike;Небезпека
+CHANCE;Chance;Chance;Le hasard;Occasione;Chance;机会;チャンス;기회;Oportunidade;Szansa;Шанс;Şans;Шанс
+CALM;Calm;Ruhe;Calme;Calmo;Calma;冷静;落ち着き;침착;Calma;Spokój;Спокойствие;Sakin;Спокій
+PEACE;Peace;Frieden;Paix;Pace;Paz;和平;平和;평화;Paz;Pokój;Мир;Barış;Мир
+HAHA;Haha;Haha;Haha;Haha;Jaja;哈哈;はは;하하;Haha;Haha;Ха-ха;Haha;Ха-ха
+ARRGH;Arrgh;Arrgh;Argh;Argh;Argh;啊;ああ;아;Argh;Arrgh;Ааа;Of;Аргх
+STRONG;Strong;Stark;Fort;Forte;Fuerte;强大;強い;강한;Forte;Silny;Сильный;Güçlü;Сильний
+GREAT;Great;Toll;Génial;Ottimo;Estupendo;伟大;最高;대단해;Excelente;Wspaniale;Здорово;Mükemmel;Великий
+HARD;Hard;Schwer;Dur;Duro;Difícil;困难;難しい;어려운;Difícil;Trudno;Тяжело;Zor;Жорсткий
+COMING;Coming;Komme;Arrivée;Arrivo;Llegando;来了;来る;오는 중;Vindo;Nadchodzi;Идет;Geliyor;Я йду.
+GOOD;Good;Gut;Bon;Buono;Bueno;好;良い;좋다;Bom;Dobry;Хорошо;İyi;Добре.
+BAD;Bad;Schlecht;Mauvais;Cattivo;Malo;坏;悪い;나쁘다;Ruim;Zły;Плохо;Kötü;Поганий
+FEAR;Fear;Angst;Peur;Paura;Miedo;恐惧;恐怖;두려움;Medo;Strach;Страх;Korku;Страх
+LOVE;Love;Liebe;Chère;L'amore;Amor;爱;愛;사랑;Amor;Miłość;Любовь;Aşk;Любов
+NEW;New;Neu;Nouveau;Nuovo;Nuevo;新的;新しい;새로운;Novo;Nowy;Новый;Yeni;Новий
+OLD;Old;Alt;Vieux;Vecchio;Viejo;旧的;古い;오래된;Velho;Stary;Старый;Eski;Старе
+FURTHER;Further;Weiter;Plus loin;Ulteriore;Más lejos;更远;さらに;더 멀리;Mais longe;Dalej;Дальше;Daha ileri;Далі
+GIVE_UP;Give up;Aufgeben;Abandonner;Arrendersi;Rendirse;放弃;諦める;포기하다;Desistir;Poddać się;Сдаться;Vazgeçmek;Здавайся
+AM;am;bin;suis;sono;soy;是;です;입니다;sou;jestem;есть;Ben;я
+IS;is;ist;est;è;es;是;は;는;é;jest;это;o;є
+WAS;was;war;étais;ero;era;是;でした;이었다;era;byłem;был;Ben;був
+HAVE;have;habe;avoir;avere;tienen;有;持つ;가지고;ter;mieć;есть;var;мати
+READY;ready;fertig;prêt;pronto;listo;准备好;準備;준비됨;pronto;gotowy;готов;hazır;готовий
+NOW;now;jetzt;maintenant;ora;ahora;现在;今;지금;agora;teraz;сейчас;şimdi;зараз
+LATER;later;Später;Plus tard;Più tardi;Más tarde;以后;後で;나중에;Mais tarde;Później;Позже;Sonra;пізніше
+FINALLY;finally;schließlich;enfin;finalmente;finalmente;总算;ついに;마침내;finalmente;w końcu;наконец-то;Sonunda;нарешті
+BE;be;sein;être;essere;ser;是;いる;이다;ser;być;быть;olmak;бути
+ON;on;auf;sur;su;en;在...上;上に;위에;em;na;на;üzerinde;на
+ABOVE;above;über;au-dessus;sopra;encima;在...之上;上方;위에;acima;nad;выше;yukarıda;вище
+BELOW;below;unter;en dessous;sotto;debajo;在...之下;下方;아래에;abaixo;pod;ниже;aşağıda;нижче
+WITH;with;mit;avec;con;con;和;と一緒に;함께;com;z;с;ile;з
+WITHOUT;without;ohne;sans;senza;sin;没有;なしで;없이;sem;bez;без;olmadan;без
+NOT;not;nicht;ne pas;non;no;不;ない;아니다;não;nie;не;değil;не
+TOP;top;oben;haut;cima;arriba;顶部;上部;상단;topo;szczyt;верх;üst;верхній
+BOTTOM;bottom;unten;bas;fondo;abajo;底部;下部;하단;fundo;dół;низ;alt;нижній
+BETWEEN;between;zwischen;entre;tra;entre;之间;間;사이에;entre;między;между;arasında;між
+FROM;from;von;de;da;de;从;から;부터;de;od;из;itibaren;від
+TO;to;zu;à;a;a;到;へ;에;para;do;к;için;до
+BUT;but;aber;mais;ma;pero;但是;しかし;그러나;mas;ale;но;ama;але
+OK;OK;OK;OK;OK;OK;好;OK;좋아요;OK;OK;ОК;Tamam;ГАРАЗД.
+SMILE;:);:);:);:);:);:);:);:);:);:);:);:);:)
+BYE;Bye;Tschüss;Au revoir;Ciao;Adiós;再见;さようなら;안녕;Tchau;Do widzenia;Пока;Hoşça kal;Бувай.
+HEART;<3;<3;<3;<3;<3;<3;<3;<3;<3;<3;<3;<3;<3
