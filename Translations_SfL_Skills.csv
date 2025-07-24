@@ -431,8 +431,8 @@ SPEC_SHATTERING_BLAST_DESC;All melee hits create 3 shattering projectiles that d
 SPEC_HYBRID_MASTERY;Hybrid Mastery;Hybrid-Beherrschung;Maîtrise Hybride;Maestria Ibrida;Maestría Híbrida;混合精通;ハイブリッド・マスタリー;하이브리드 숙련;Maestria Híbrida;Mistrzostwo hybrydy;Мастерство гибрида;Hibrit Ustalığı;Гібридна майстерність
 SPEC_HYBRID_POTENTIAL;Hybrid Potential;Hybrid-Potenzial;Potentiel Hybride;Potenziale Ibrido;Potencial Híbrido;混合潜力;ハイブリッド・ポテンシャル;하이브리드 잠재력;Potencial Híbrido;Potencjał hybrydy;Потенциал гибрида;Hibrit Potansiyel;Гібридний потенціал
 SPEC_HYBRID_COMBAT;Hybrid Combat;Hybrid-Kampf;Combat Hybride;Combattimento Ibrido;Combate Híbrido;混合战斗;ハイブリッド・コンバット;하이브리드 전투;Combate Híbrido;Walka hybrydowa;Гибридный бой;Hibrit Savaş;Гібридна боротьба
-SPEC_HYBRID_AIM;Hybrid Aim;Hybrid-Ziel;Viseur Hybride;Mira Ibrida;Puntería Híbrida;混合瞄准;ハイブリッドの狙い;하이브리드 조준;Mira Híbrida;Celowanie hybrydowe;Гибридная точность;Hibrit Nişan;Гібридна мета
-SPEC_HYBRID_TRAINING;Hybrid Training;Hybrid-Training;Entraînement Hybride;Allenamento Ibrido;Entrenamiento Híbrido;混合训练;ハイブリッド・エイム;하이브리드 훈련;Treinamento Híbrido;Trening hybrydowy;Гибридная тренировка;Hibrit Eğitimi;Гібридне тренування
+SPEC_HYBRID_AIM;Hybrid Aim;Hybrid-Ziel;Viseur Hybride;Mira Ibrida;Puntería Híbrida;混合瞄准;ハイブリッド・エイム;하이브리드 조준;Mira Híbrida;Celowanie hybrydowe;Гибридная точность;Hibrit Nişan;Гібридна мета
+SPEC_HYBRID_TRAINING;Hybrid Training;Hybrid-Training;Entraînement Hybride;Allenamento Ibrido;Entrenamiento Híbrido;混合训练;ハイブリッド・トレーニング;하이브리드 훈련;Treinamento Híbrido;Trening hybrydowy;Гибридная тренировка;Hibrit Eğitimi;Гібридне тренування
 ;;;;;;;;;;;;;
 ;;;;;;;;;;;;;
 ;;;;;;;;;;;;;
